@@ -89,3 +89,5 @@ echo -e "\n${CYAN}${BOLD}함께 멋진 iOS 앱을 만들어보아요! 🚀${NC}\
 sleep 1
 echo -e "${WHITE}${BOLD}이 스크립트를 실행해주셔서 감사합니다! 😊${NC}"
 echo -e "${BLUE}더 많은 정보가 필요하시면 언제든 연락주세요!${NC}\n"
+
+
